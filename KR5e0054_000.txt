@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:10:01.891850
 #+TITLE: 雲光集
-#+DATE: 2015-08-29 02:10:10
+#+PROPERTY: DZID  DZ1152
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，25—648 四卷 太平部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
